@@ -6,6 +6,10 @@
   "directories": {
     "example": "examples"
   },
+  "publishConfig": {
+    "access": "public",
+    "registry": "http://spmonug01/npm/thirdpartynpm"
+  },
   "scripts": {
     "test": "./node_modules/.bin/gulp test --silent",
     "test:headless": "xvfb-run npm test --silent",
@@ -18,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Mikhus/canvas-gauges.git"
+    "url": "https://github.com/ericMartin386/canvas-gauges.git"
   },
   "keywords": [
     "gauge",

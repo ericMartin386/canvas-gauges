@@ -1,6 +1,6 @@
 {
   "name": "canvas-gauges",
-  "version": "2.0.11-0",
+  "version": "2.0.10-exfo",
   "description": "Minimalistic HTML5 Canvas Gauges",
   "main": "gauge.min.js",
   "directories": {
